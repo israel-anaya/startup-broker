@@ -52,5 +52,5 @@ volumes:
   zookeeper-data:
     driver: local
   kafka-data:
-      driver: local
+    driver: local
   
